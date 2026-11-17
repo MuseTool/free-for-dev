@@ -1415,7 +1415,7 @@ Update Time, five active automations, webhooks.
   * [GoFile.io](https://gofile.io/) - Free file sharing and storage platform can be used via web-based UI & also API. unlimited file size, bandwidth, download count, etc. But it will be deleted when a file becomes inactive (no download for more than ten days).
   * [gumlet.com](https://www.gumlet.com/) - Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB  / month for images.
   * [hyperserve.io](https://hyperserve.io/) - Video backend API for developers: accept any format your users upload, transcode to MP4, and deliver globally via CDN. The free tier includes 10 videos, 200 MB per file, and 50 GB bandwidth per month.
-  * [icedrive.net](https://www.icedrive.net/) - Simple cloud storage service. 10 GB free storage
+     * [icedrive.net](https://www.icedrive.net/) - Simple cloud storage service. 10 GB free storage
   * [image-charts.com](https://www.image-charts.com/) - Unlimited image chart generation with a watermark
   * [ImageEngine](https://imageengine.io/) - ImageEngine is an easy to use global image CDN. Sub 60 sec setup. AVIF and JPEGXL support, WordPress-, Magento-, React-, Vue- plugins and more. Claim your free developer account [here](https://imageengine.io/developer-program/).
   * [imagekit.io](https://imagekit.io) - Image CDN with automatic optimization, real-time transformation, and storage that you can integrate with existing setup in minutes. The free plan includes up to 20GB of bandwidth per month.
@@ -1427,10 +1427,13 @@ Update Time, five active automations, webhooks.
   * [internxt.com](https://internxt.com) - Internxt Drive is a zero-knowledge file storage service based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!
   * [kraken.io](https://kraken.io/) - Image optimization for website performance as a service, free plan up to 1 MB file size
   * [LibreQR](https://libreqr.com) - Free QR code generator focused on privacy and no tracking. Free to use with no data collection.
-  * [MConverter](https://mconverter.eu/) - Convert files in bulk. Supports many formats, including [AVIF](https://mconverter.eu/convert/to/avif/) and JXL. Extract image frames from videos. Compress PDFs. Free for 15 files per 24h, up to 100 MB each, processed in batches of eight.
+  * [MConverter](https://mconverter.eu/) - Convert files in bulk. Supports many formats, including [AVIF](https://mconverter.eu/convert/to/avif/) and JXL. Extract image frames from videos. Compress
+  * PDFs. Free for 15 files per 24h, up to 100 MB each, processed in batches of eight.
+  * * [MuseTool](https://musetool.online/) - Free online tools: calculators, text and writing tools, developer tools, image and design tools, converters and SEO tools. No sign-up, runs in the browser.
   * [nitropack.io](https://nitropack.io/) - Accelerate your site's speed on autopilot with complete front-end optimization (caching, images and code optimization, CDN). Free for up to 5,000 pageviews/month
   * [npoint.io](https://www.npoint.io/) - JSON store with collaborative schema editing
-  * [MantleDB](https://mantledb.sh) - Anonymous JSON storage for scripts and tiny apps. No signup required; uses Master AID for updates and Read-Only RID for public fetching. Free tier includes 1 bucket (1MB limit) with a 72h inactivity scavenger policy.
+  * [MantleDB](https://mantledb.sh) - Anonymous JSON storage for scripts and tiny apps. No signup required; uses Master AID for updates and Read-Only RID for public fetching. Free tier includes 1
+  * bucket (1MB limit) with a 72h inactivity scavenger policy.
   * [We.Team](https://www.we.team/en) - Encrypt, share, copy, and move all your cloud storage files from one place. The basic plan provides unlimited file transfer with 250 MB max. file size and allows five encrypted files
   * [packagecloud.io](https://packagecloud.io/) - Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans and open-source plans are available via request
   * [pcloud.com](https://www.pcloud.com/) - Cloud storage service. Up to 10 GB of free storage
